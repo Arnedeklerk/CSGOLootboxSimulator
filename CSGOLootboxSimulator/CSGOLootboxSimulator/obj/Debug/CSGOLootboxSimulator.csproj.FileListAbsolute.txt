@@ -1,0 +1,32 @@
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.exe.config
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.exe
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.pdb
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csprojAssemblyReference.cache
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.Form1.resources
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.Properties.Resources.resources
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.GenerateResource.cache
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.CoreCompileInputs.cache
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.exe
+D:\Vega\Third Year\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.pdb
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.exe.config
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.exe
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.pdb
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.AssemblyReference.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.Form1.resources
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.Properties.Resources.resources
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.GenerateResource.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.CoreCompileInputs.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.exe
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.pdb
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.exe.config
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.exe
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\bin\Debug\CSGOLootboxSimulator.pdb
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.AssemblyReference.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.Form1.resources
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.Properties.Resources.resources
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.GenerateResource.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.csproj.CoreCompileInputs.cache
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.exe
+E:\OneDrive\Vega\Third Year\First Semester\Random bits of code\CSGOLootboxSimulator - Copy\CSGOLootboxSimulator\obj\Debug\CSGOLootboxSimulator.pdb
